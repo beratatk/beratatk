@@ -13,8 +13,8 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 | Project | What it is | Stack |
 |---|---|---|
 | **[DrapeAI](https://drapeai.app)** | AI-powered virtual try-on and outfit planning app. Live on iOS & Android. | Flutter · Supabase · Next.js · AI APIs |
-| **Trendela** | BIST-focused portfolio tracker with AI-assisted market analysis. | Flutter · Riverpod · Supabase · REST |
-| **13: Jack Hunt** | Online multiplayer card game with a custom pure-Dart engine. | Flutter · Riverpod · Firebase · Cloud Functions |
+| **[Trendela](https://trendela.app)** | BIST-focused portfolio tracker with AI-assisted market analysis. | Flutter · Riverpod · Supabase · REST |
+| **[13: Jack Hunt](https://jackhunt13.com)** | Online multiplayer card game with a custom pure-Dart engine. | Flutter · Riverpod · Firebase · Cloud Functions |
 | **Atekian** | The studio I co-founded — where all of the above ships from. | — |
 
 > Most of these repositories are private since they're live commercial products.
