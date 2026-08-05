@@ -15,7 +15,7 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 | **[DrapeAI](https://drapeai.app)** | AI-powered virtual try-on and outfit planning app. Live on iOS & Android. | Flutter · Supabase · Next.js · AI APIs |
 | **[Trendela](https://trendela.app)** | BIST-focused portfolio tracker with AI-assisted market analysis. | Flutter · Riverpod · Supabase · REST |
 | **[13: Jack Hunt](https://jackhunt13.com)** | Online multiplayer card game with a custom pure-Dart engine. | Flutter · Riverpod · Firebase · Cloud Functions |
-| **Atekian** | The studio I co-founded — where all of the above ships from. | — |
+| **[Atekian](https://atekian.com)** | The studio I co-founded — where all of the above ships from. | — |
 
 > Most of these repositories are private since they're live commercial products.
 > The pinned repos below are **case studies**: architecture, product decisions and screenshots, without the source.
@@ -42,4 +42,4 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 
 ---
 
-<sub>Reach me at [atekian.com](https://www.atekian.com) or [LinkedIn](https://www.linkedin.com/in/beratatak).</sub>
+<sub>Reach me at [atekian.com](https://www.atekian.com) or [LinkedIn](https://www.linkedin.com/in/berat-atak).</sub>
