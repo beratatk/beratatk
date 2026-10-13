@@ -2,7 +2,7 @@
 
 **Product-focused mobile & web developer.** Computer Engineering student at Selçuk University, building and shipping my own apps on iOS, Android and the web.
 
-I mostly work end-to-end: idea → Flutter/Next.js implementation → backend → store release → analytics and iteration. Currently a Frontend Developer Intern at [Jotform](https://www.jotform.com).
+I mostly work end-to-end: idea → Flutter/Next.js implementation → backend → store release → analytics and iteration. Most recently a Frontend Developer Intern at [Jotform](https://www.jotform.com).
 
 🌐 [atekian.com](https://www.atekian.com) · ✉️ beratatk@hotmail.com
 
@@ -12,7 +12,8 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[DrapeAI](https://drapeai.app)** | AI-powered virtual try-on and outfit planning app. Live on iOS & Android. | Flutter · Supabase · Next.js · AI APIs |
+| **[DrapeAI](https://drapeai.app)** | AI-powered virtual try-on and outfit planning app. Live on iOS & Android — 5k+ users, 15k+ generated images. | Flutter · Supabase · Next.js · AI APIs |
+| **[Tatwise](https://tatwise.app)** | AI-powered tattoo design app. Launching on iOS & Android. | Flutter · Next.js · AI APIs |
 | **[Trendela](https://trendela.app)** | BIST-focused portfolio tracker with AI-assisted market analysis. | Flutter · Riverpod · Supabase · REST |
 | **[13: Jack Hunt](https://jackhunt13.com)** | Online multiplayer card game with a custom pure-Dart engine. | Flutter · Riverpod · Firebase · Cloud Functions |
 | **[Atekian](https://atekian.com)** | The studio I co-founded — where all of the above ships from. | — |
@@ -27,6 +28,7 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 **Mobile** Flutter · Dart · Riverpod · iOS/Android release pipelines
 **Web** React · Next.js · TypeScript · Tailwind CSS
 **Backend** Supabase (Auth, Postgres, Storage, Edge Functions) · Firebase (Firestore, Cloud Functions) · REST APIs
+**Growth** GA4 · SEO & GEO (generative engine optimization) · i18n · App Store localization
 **Data** Python · pandas · data cleaning, visualization & interpretation
 **Tooling** Git · Figma · Postman · Vercel · RevenueCat · AdMob
 
@@ -34,8 +36,9 @@ I mostly work end-to-end: idea → Flutter/Next.js implementation → backend �
 
 ## A bit more
 
+- 🔭 Open to: full-time role or final-semester industry placement (Jan–May 2027)
 - 🎓 Computer Engineering @ Selçuk University (2022–2027) — graduation project: DrapeAI
-- 💼 Frontend Developer Intern @ Jotform (2026 –)
+- 💼 Frontend Developer Intern @ Jotform (Aug–Sep 2026) — React
 - 🧪 Previously: Full-stack intern at Nanodems, building a personnel tracking system
 - 🤖 Started with Arduino and robotics in high school — founded and led the Nemesis robotics team
 - 🌍 Turkish (native) · English
